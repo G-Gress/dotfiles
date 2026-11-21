@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gabrielgress.ds@gmail.com
+	name = Gabriel Gress
